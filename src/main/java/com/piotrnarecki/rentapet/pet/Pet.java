@@ -15,6 +15,7 @@ public class Pet {
     private String type;
     private String breed;
     private Double pricePerDay;
+    private String imageName;
 
 
 }

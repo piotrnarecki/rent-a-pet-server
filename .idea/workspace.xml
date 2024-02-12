@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="000078f4-74d8-442f-9247-e13dbc470f6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/american_shorthair_cat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/beagle.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/beaver.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/border_collie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/european_cat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/golden_retriver.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/orange_tabby_cat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/pangular.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/penguin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/python.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/schnauzer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/scottish_fold_cat.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/PetController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/piotrnarecki/rentapet/pet/PetService.java" afterDir="false" />
     </list>
@@ -41,16 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.RentAPetServer.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/piotrnarecki/Documents/Development/Web Development/RentAPet/server/rent-a-pet-server",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RentAPetServer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/piotrnarecki/Documents/Development/Web Development/RentAPet/server/rent-a-pet-server/src/main/resources/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="RentAPetServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.piotrnarecki.rentapet.RentapetApplication" />

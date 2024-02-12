@@ -10,7 +10,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping(path = "/api/v1/pet")
+@RequestMapping(path = "/pets")
 
 public class PetController {
 
@@ -21,6 +21,8 @@ public class PetController {
         this.petService = petService;
     }
 
+
+    //https://dev.to/developersmill/angular-proxy-configuration-for-api-calls-130b
 
     @GetMapping()
     public List<Pet> getPets() {
