@@ -29,6 +29,9 @@ public class PetController {
         return petService.getPets();
     }
 
-
+//    @GetMapping()
+//    public List<PetWithDescription> getPets() {
+//        return petService.getPets();
+//    }
 
 }
